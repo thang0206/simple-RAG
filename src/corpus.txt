@@ -1,0 +1,5 @@
+Python is a popular programming language.
+Retrieval-Augmented Generation (RAG) combines search and generation.
+Transformers are state-of-the-art models for NLP tasks.
+FastAPI is a modern web framework for building APIs with Python.
+Vector databases are used for efficient similarity search.
